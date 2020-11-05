@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main()
-{int a,b:
-printf("a= \n");
-scanf("%d",&a);
-b=2;
-printf(" %d  * %d   = %d ",a,b,a*b);
+{
+int a,b:
+a=10;
+b=3;
+printf("\n a=%d b=%d ",a,b);
+
 }
